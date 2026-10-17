@@ -22,7 +22,7 @@ I’m a student learning programming and software development, one project at a 
 
 * C
 * GitHub
-* HTML and CSS (add when you are comfortable with them)
+* HTML and CSS
 
 📂 My Projects
 
@@ -30,7 +30,7 @@ Check out my repositories for my coding practice and projects.
 
 📫 Connect With Me
 
-* GitHub: https://github.com/YOUR_USERNAME
+* GitHub: https://github.com/
 
 ⸻
 

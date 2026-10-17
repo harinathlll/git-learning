@@ -1,11 +1,15 @@
 My First GitHub Project
+
 About
-i am a Btech computer science student
-learning programming and GIThub.
+
+I am a BTech Computer Science student learning programming and GitHub.
+
 Skills I Am Learning
->C programmimg
->Data structure
->Git and GitHub
+
+* C Programming
+* Data Structures
+* Git and GitHub
+
 Goal
->to build projest and improve my coding skills.
->
+
+To build projects and improve my coding skills.

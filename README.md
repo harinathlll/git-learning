@@ -30,7 +30,7 @@ Check out my repositories for my coding practice and projects.
 
 📫 Connect With Me
 
-* GitHub: https://github.com/
+* GitHub: https://github.com/harinathlll
 
 ⸻
 
